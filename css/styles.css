@@ -1,0 +1,23 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.picture {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+
+  border: 1px solid red;
+  padding: 2px;
+}
+
+.quote {
+  font-size: 12px;
+  color: #2c2323;
+  /* Top Right Bottom Left */
+  /* Top-Bottom Right-Left */
+  margin: 5px;
+  padding: 10px;
+  border: 1px dashed black;
+  border-radius: 10px;
+}
